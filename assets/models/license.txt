@@ -1,0 +1,11 @@
+Model Information:
+* title:	Aku (NST/CTR:NF)
+* source:	https://sketchfab.com/3d-models/aku-nstctrnf-b742fbf6baff40f2b36cfc1aa7efe1c1
+* author:	random guyz (https://sketchfab.com/Randomized_guy_.who)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Aku (NST/CTR:NF)" (https://sketchfab.com/3d-models/aku-nstctrnf-b742fbf6baff40f2b36cfc1aa7efe1c1) by random guyz (https://sketchfab.com/Randomized_guy_.who) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
